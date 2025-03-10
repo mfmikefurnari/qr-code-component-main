@@ -1,0 +1,17 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+body{
+  font-family: "Outfit";
+}
+.heavy{font-weight: 700;font-size:24px;}
+.reg{font-weight: 400; font-size:15px;} 
+
+#floater {
+  width: 310px;
+}
+
+
+img {
+max-width: 100%;
+max-height: 100%;
+}
